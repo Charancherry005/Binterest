@@ -14,7 +14,6 @@ In the above schema, id, url, posterName and description will be populated using
 
 Your designer has provided a rough mock-up of the proposed app, Binterest. Here’s (Links to an external site.) a demo of what what the Frontend will look like. You do not need an account to view the document. Click on the top-left button to look at the other pages.
 
-You do not need to implement CSS, the only thing that we require is that you follow the general route structure of this example. How you choose to lay out the elements on each page is up to you as long as it makes sense. (ie: use a <ul> or <ol> for lists instead of a bunch of <p> tags, etc.).
 
 **Backend**
 This assignment’s backend will be implemented using Apollo Server (Links to an external site.). In particular, you will be to support the following queries and mutations to make this webapp functional:
