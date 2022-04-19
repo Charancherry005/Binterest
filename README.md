@@ -16,8 +16,6 @@ Your designer has provided a rough mock-up of the proposed app, Binterest. Hereâ
 
 You do not need to implement CSS, the only thing that we require is that you follow the general route structure of this example. How you choose to lay out the elements on each page is up to you as long as it makes sense. (ie: use a <ul> or <ol> for lists instead of a bunch of <p> tags, etc.).
 
-Do not just dump JSON payloads to the frontend, you will lose major points! (Or get fired from Binterest!)
-
 **Backend**
 This assignmentâ€™s backend will be implemented using Apollo Server (Links to an external site.). In particular, you will be to support the following queries and mutations to make this webapp functional:
 
